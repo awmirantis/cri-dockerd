@@ -71,3 +71,10 @@ make docs
 ```
 
 This will launch the development server that is included with Hugo. You can then access the docs at http://localhost:1313/
+
+### Go Versions
+
+| Branch      | Golang  |
+|-------------|---------|
+| release/0.4 | v1.26.x |
+| release/0.3 | v1.24.x |
